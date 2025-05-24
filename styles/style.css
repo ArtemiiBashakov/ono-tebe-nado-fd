@@ -270,14 +270,9 @@
   padding-top: 4px;
 }
 
-.about_paragraph-no-bottom-margin {
-  max-width: 693px;
-}
-
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  min-height: 180px;
   margin-top: 167px;
 }
 
